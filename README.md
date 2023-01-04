@@ -1,5 +1,5 @@
-### Olá! Me chamo Diego Zito, sou de São Paulo, futuro desenvolvedor JAVA e fotógrafo nas horas vagas
-- Atualmente trabalho com backend, mais especificamente na área de testes como QA Júnio
+### Olá, me chamo Diego Zito, futuro desenvolvedor JAVA e fotógrafo nas horas vagas
+- Atualmente trabalho com backend, mais especificamente na área de testes como QA Júnior
 - Focado nos estudos para as certificações de Java e posteriormente cloud AWS.
 
 <div align="center">
