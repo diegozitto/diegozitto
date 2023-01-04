@@ -1,4 +1,5 @@
-### Olá, me chamo Diego Zito, futuro desenvolvedor JAVA e fotógrafo nas horas vagas
+### Olá, tudo bom?
+### Me chamo Diego Zito, futuro desenvolvedor JAVA e fotógrafo nas horas vagas
 - Atualmente trabalho com backend, mais especificamente na área de testes como QA Júnior
 - Focado nos estudos para as certificações de Java e posteriormente cloud AWS.
 
