@@ -2,8 +2,8 @@
 
 Me chamo Diego e sou um analista de testes de qualidade e automação e estudante de engenharia de software
  Tenho vivência na área de testes funcionais e não funcionais, com ênfase no setor bancário. Cheguei a atuar com automação mobile, fazendo uso de java, appium, device-farm e de ferramentas que nos auxiliam com a parte de gestão de atividades, abertura e monitoramento de bugs como o jira e octane.
- Atualmente estou me aprofundando nos estudos da área de teste com os treinamentos da Iterasys, procuro me capacitar para realizar testes usando linguagens tanto de front (JS) quanto
-back-end (Java, C++, etc), também busco conhecimentos na área de banco de dados e nuvem futuramente.
+ Atualmente estou me aprofundando nos estudos da área de teste, procuro me capacitar para realizar testes usando linguagens tanto de front (JS) quanto
+back-end (Java, C#, etc), planejo estudar também a área de banco de dados e nuvem.
 
 <div align="center">
   <a href="https://github.com/diegozitto">
