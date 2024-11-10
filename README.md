@@ -8,10 +8,7 @@ back-end (Java, C#, etc), planejo estudar também a área de banco de dados e nu
 <div align="center">
   <a href="https://github.com/diegozitto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegozitto&theme=midnight-purple&show_icons=true"/>
- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozitto&layout=compact&langs_count=7&theme=midnight-purple"/>
-
-  <img height="180em" src = "https://github-readme-stats.vercel.app/api/pin/?username=diegozitto&repo=JavaCompletoDoZeroAoProfissional&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
