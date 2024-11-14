@@ -1,9 +1,7 @@
 ### Olá, tudo bom?
+Me chamo Diego e sou estudante de engenharia de software com foco no desenvolvimento de aplicações em Java e Spring Boot. Tenho experiência prévia como analista de testes de qualidade e automação, com vivência em testes funcionais e não funcionais, especialmente no setor bancário. Já atuei com automação mobile e web utilizando Java, Appium, Device Farm, Selenium e também com ferramentas de gestão de atividades como Jira e Octane.
 
-Me chamo Diego e sou um analista de testes de qualidade e automação e estudante de engenharia de software
- Tenho vivência na área de testes funcionais e não funcionais, com ênfase no setor bancário. Cheguei a atuar com automação mobile, fazendo uso de java, appium, device-farm e de ferramentas que nos auxiliam com a parte de gestão de atividades, abertura e monitoramento de bugs como o jira e octane.
- Atualmente estou me aprofundando nos estudos da área de teste, procuro me capacitar para realizar testes usando linguagens tanto de front (JS) quanto
-back-end (Java, C#, etc), planejo estudar também a área de banco de dados e nuvem.
+Atualmente, estou me dedicando aos estudos de Java e Spring Boot, buscando aprimorar minhas habilidades no desenvolvimento de sistemas back-end robustos e escaláveis. Futuramente irei me focar nos estudos em banco de dados e tecnologias relacionadas à nuvem, enquanto pretendo migrar para a área de desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/diegozitto">
