@@ -23,4 +23,4 @@ Atualmente, estou me dedicando aos estudos de Java e Spring Boot, buscando aprim
  
 </div>
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/diegozitto/diegozitto/blob/output/github-contribution-grid-snake-dark.svg)
