@@ -1,4 +1,4 @@
-### Olá, tudo bom?
+### Olá
 Me chamo Diego e sou estudante de engenharia de software com foco no desenvolvimento de aplicações em Java e Spring Boot. Tenho experiência prévia como analista de testes de qualidade e automação, com vivência em testes funcionais e não funcionais, especialmente no setor bancário. Já atuei com automação mobile e web utilizando Java, Appium, Device Farm, Selenium e também com ferramentas de gestão de atividades como Jira e Octane.
 
 Atualmente, estou me dedicando aos estudos de Java e Spring Boot, buscando aprimorar minhas habilidades no desenvolvimento de sistemas back-end robustos e escaláveis. Futuramente irei me focar nos estudos em banco de dados e tecnologias relacionadas à nuvem, enquanto pretendo migrar para a área de desenvolvimento.
