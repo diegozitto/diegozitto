@@ -1,0 +1,45 @@
+name: Repository Health Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Runs monthly on the 1st at 3:00 AM UTC
+    - cron: '0 3 1 * *'
+  workflow_dispatch:
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Check for README
+      run: |
+        if [ ! -f README.md ]; then
+          echo "::warning::README.md file not found"
+          exit 1
+        else
+          echo "✅ README.md found"
+        fi
+        
+    - name: Validate Markdown files
+      uses: DavidAnson/markdownlint-action@v1
+      with:
+        files: '**/*.md'
+        config: |
+          {
+            "MD013": false,
+            "MD033": false,
+            "MD041": false
+          }
+        
+    - name: Check repository structure
+      run: |
+        echo "Repository structure:"
+        find . -type f -name "*.md" -o -name "*.yml" -o -name "*.yaml" | sort
+        echo "✅ Repository structure check completed"

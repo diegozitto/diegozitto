@@ -15,7 +15,14 @@ Atualmente, estou me dedicando aos estudos da pós-graduação, buscando aprimor
   <img align="center" alt="Diego-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
 
-##
+## 🔧 Automação / Automation
+
+Este repositório utiliza GitHub Actions para automação e manutenção.
+*This repository uses GitHub Actions for automation and maintenance.*
+
+[![Repository Health Check](https://github.com/diegozitto/diegozitto/actions/workflows/health-check.yml/badge.svg)](https://github.com/diegozitto/diegozitto/actions/workflows/health-check.yml)
+
+## 📫 Contato / Contact
  
 <div>  
   <a href = "mailto:diegomirandazito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

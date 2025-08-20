@@ -1,0 +1,29 @@
+name: Greet Contributors
+
+on:
+  issues:
+    types: [opened]
+  pull_request:
+    types: [opened]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Greet new contributor
+      uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: |
+          👋 Obrigado por abrir sua primeira issue neste repositório! 
+          
+          Hi! Thanks for opening your first issue in this repository! I appreciate your contribution and will look into it as soon as possible.
+          
+          Olá! Obrigado por abrir sua primeira issue neste repositório! Agradeço sua contribuição e vou analisar o mais breve possível.
+        pr-message: |
+          🎉 Obrigado por seu primeiro pull request neste repositório!
+          
+          Hi! Thanks for your first pull request to this repository! I'll review it carefully and provide feedback soon.
+          
+          Olá! Obrigado por seu primeiro pull request neste repositório! Vou revisar cuidadosamente e fornecer feedback em breve.
