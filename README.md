@@ -1,24 +1,21 @@
-### Olá
-Me chamo Diego e sou formado em engenharia de software e fazendo pós-graduação em arquitetura e desenvolvimento java. Atuo como QA desde há pouco mais de 3 anos e possuo experiência com testes funcionais e automatizado, especialmente no setor bancário. Já atuei com automação mobile e web utilizando Java, Appium, Device Farm, Selenium e também com ferramentas de gestão de atividades como Jira e Octane.
+## Hey, wassup and welcome! I'm Diego 
+A Quality Assurance Engineer. I specialize in test automation for both web and mobile applications.
 
-Atualmente, estou me dedicando aos estudos da pós-graduação, buscando aprimorar minhas habilidades no desenvolvimento de sistemas back-end e as tecnologias que compõem a área. 
+🛠️ Languages & Frameworks
 
-<div align="center">
-  <a href="https://github.com/diegozitto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegozitto&theme=midnight-purple&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozitto&layout=compact&langs_count=7&theme=midnight-purple"/>
-    
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) 
 
+🧰 Tools & Platforms
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-</div>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-##
- 
+💻 IDE's
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+📫 Let’s Connect
+
 <div>  
   <a href = "mailto:diegomirandazito@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diego-zito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
